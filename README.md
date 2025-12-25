@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm **Ali Ahmed** 👋
 
-<!--
-**alikumbhar/alikumbhar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate **DevOps Engineer** focused on automating cloud infrastructure, building CI/CD pipelines, and optimizing software delivery processes. My main goal is to improve deployment speed, scalability, and ensure smooth, reliable applications.
 
-Here are some ideas to get you started:
+## 🔭 What I’m working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🚀 **SignDevOps** — Automating cloud infrastructure for deploying applications on **Kubernetes**.
+- ⚙️ Building **CI/CD pipelines** to ensure smooth and efficient software delivery.
+- ✅ Successfully deploying over **10 applications** using CI/CD automation.
+- 🌐 Integrating technologies such as **AWS CodePipeline**, **Jenkins**, **GitHub Actions**, and **ECS** for seamless deployments.
+- ⚡ Improving deployment speed and scalability through automated processes.
+- 🛠️ Optimizing **cloud infrastructure** and **Kubernetes** orchestration to handle enterprise-level applications.
+- 📊 **Monitoring** application performance and infrastructure health using **Prometheus** and **Grafana** for real-time visibility and insights.
+
+## 🔧 Technologies & Tools I work with
+
+- ☁️ **Cloud Platforms**: AWS, Azure, GCP
+- ⚙️ **DevOps Tools**: Jenkins, GitHub Actions, CircleCI, Travis CI
+- 🛠️ **Infrastructure as Code (IaC)**: Terraform, CloudFormation
+- 🐳 **Containers & Orchestration**: Docker, Kubernetes, ECS
+- 📊 **Monitoring & Logging**: Prometheus, Grafana, ELK Stack
+- 💻 **Programming & Scripting**: Python, Bash, Go, YAML
+- 🌱 **Version Control**: Git, GitHub
