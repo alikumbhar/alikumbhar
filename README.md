@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm a passionate **DevOps Engineer** focused on au
 
 ## 🔧 Technologies & Tools I work with
 
-- ☁️ **Cloud Platforms**: AWS, Azure, GCP
+- ☁️ **Cloud Platforms**: AWS, Azure
 - ⚙️ **DevOps Tools**: Jenkins, GitHub Actions, CircleCI, Travis CI
 - 🛠️ **Infrastructure as Code (IaC)**: Terraform, CloudFormation
 - 🐳 **Containers & Orchestration**: Docker, Kubernetes, ECS
