@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate **DevOps Engineer** focused on au
 
 ## 🔭 What I’m working on
 
-- 🚀 **SignDevOps** — Automating cloud infrastructure for deploying applications on **Kubernetes**.
+- 🚀 [**SignDevOps**](https://signdevops.com) — Automating cloud infrastructure for deploying applications on **Kubernetes**.
 - ⚙️ Building **CI/CD pipelines** to ensure smooth and efficient software delivery.
 - ✅ Successfully deploying over **10 applications** using CI/CD automation.
 - 🌐 Integrating technologies such as **AWS CodePipeline**, **Jenkins**, **GitHub Actions**, and **ECS** for seamless deployments.
@@ -21,3 +21,10 @@ Welcome to my GitHub profile! I'm a passionate **DevOps Engineer** focused on au
 - 📊 **Monitoring & Logging**: Prometheus, Grafana, ELK Stack
 - 💻 **Programming & Scripting**: Python, Bash, Go, YAML
 - 🌱 **Version Control**: Git, GitHub
+
+
+## 📬 Let's Connect!
+- **LinkedIn**: [Ali Ahmed](https://www.linkedin.com/in/alikumbhar)
+- **Email**: kumbharali732@gmail.com
+
+
